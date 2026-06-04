@@ -1,20 +1,23 @@
 <<<<<<< HEAD
 # spendday_app
 =======
-# spendday_app
+📱 Project Description
+Spendday App is a personal finance tracker app built with Flutter and Provider. It lets users monitor their monthly spending with a clean dark navy + emerald green UI (Precision Ledger design system). Features include a 12-month selector, total spend card with budget progress, category breakdowns, a full transaction history, and an add-transaction bottom sheet form.
 
-A new Flutter project.
+project structure
+-----------------------
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![image_alt](https://github.com/AnasAA412/spendday_app/blob/main/Screenshot%20(331).png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 52a136f (completed spendday app)
+screenshot
+------------------
+
+
+
+
+![image_alt](https://github.com/AnasAA412/spendday_app/blob/main/Screenshot%20(328).png)
+![image_alt](https://github.com/AnasAA412/spendday_app/blob/main/Screenshot%20(329).png)
+![image_alt](https://github.com/AnasAA412/spendday_app/blob/main/Screenshot%20(330).png)
